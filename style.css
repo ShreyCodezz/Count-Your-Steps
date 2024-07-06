@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(21, 165, 184);
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-size: 4rem;
+    margin-top: 50px;
+    text-align: center;
+}
+h2{
+    font-size: 2rem;
+    margin-top: 50px;
+    text-align: center;
+}
+button{
+    background-color: rgb(62, 13, 197);
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    justify-content: center;
+    margin-top: 50px;
+    border-radius: 50px;
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+}
+p{
+    font-size: 2rem;
+    margin-top: 50px;
+    text-align: left;
+}
